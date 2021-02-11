@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-inheritance\DU3-inheritance\bin\Debug\DU3-inheritance.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-inheritance\DU3-inheritance\bin\Debug\DU3-inheritance.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-inheritance\DU3-inheritance\bin\Debug\DU3-inheritance.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-inheritance\DU3-inheritance\obj\Debug\DU3-inheritance.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-inheritance\DU3-inheritance\obj\Debug\DU3-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-inheritance\DU3-inheritance\obj\Debug\DU3-inheritance.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-inheritance\DU3-inheritance\obj\Debug\DU3-inheritance.pdb
